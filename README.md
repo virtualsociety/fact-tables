@@ -5,7 +5,7 @@ Fact Tables for Simulations
 
 This tool generates machine code from CSV tables taken from the ministery of internal affairs. In three steps:
 
-* Read CSV
+* Read CSV's
 * Generate Compilable Code
 * Compile to Ahead of Time (AOT) machine code.
 
